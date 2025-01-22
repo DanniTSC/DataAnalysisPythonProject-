@@ -1,0 +1,50 @@
+Scopul:
+Analizarea nivelului de participare la activitățile fizice (aerobic, masă musculară, și combinația lor)
+în diferite țări europene pentru a identifica diferențele regionale și posibile corelații între nivelul general
+de activitate fizică și tipul specific de exercițiu.
+
+
+
+Concluzii:
+
+	1. Din histogramă:
+Cele mai multe țări europene prezintă o participare scăzută (sub 15%) la activități combinate de aerobic și masă musculară.
+Activitatea aerobică are o distribuție mai variată, cu unele țări atingând valori ridicate (peste 50%), exemplu fiind țările nordice.
+Participarea la activitățile de masă musculară este mai uniform distribuită, însă în general rămâne mai scăzută decât cea pentru aerobic.
+	
+	2. Din matricea de corelație:
+Există o corelație puternică între toate cele trei categorii de activități analizate:
+Aerobic și masă musculară: Corelație de 0.96, ceea ce indică faptul că țările cu rate ridicate de participare la una dintre activități au, în general, rate ridicate și la cealaltă.
+
+	3. Participarea relativă comparativ cu media UE (2020):
+Media UE (2020):
+Aerobic + masă musculară: 13.6%.
+Aerobic: 31.0%.
+Masă musculară: 19.7%.
+Țările nordice, precum Islanda, Suedia, și Finlanda, depășesc semnificativ media UE pentru toate tipurile de activități.
+Țări precum România, Bulgaria, și Turcia sunt sub media UE la toate categoriile, subliniind necesitatea unor intervenții pentru a încuraja activitatea fizică.
+
+	4. Clusterizarea țărilor:
+	Clusterizarea a identificat 3 grupe principale:
+
+	Cluster 0: Țări cu participare foarte scăzută la toate activitățile fizice (ex. Turcia, România). Aceste țări ar beneficia de îmbunătățirea infrastructurii sportive și de campanii de conștientizare.
+	Cluster 1: Țări cu participare moderată, precum Franța, Spania, și Italia, care au o distribuție echilibrată, dar nu excelează.
+	Cluster 2: Țările nordice (ex. Islanda, Suedia, Norvegia) cu cele mai ridicate rate de participare. Acestea pot fi considerate modele de bune practici.
+
+	5. Metoda Elbow pentru numărul de clustere:
+Din analiza graficului Elbow, s-a observat că distorsiunea scade semnificativ până la 3 clustere, ceea ce sugerează că acest număr este optim pentru gruparea datelor.
+Alegerea celor 3 clustere reflectă clar tiparele observate în date.
+
+	Concluzii practice:
+	Pentru țările din Cluster 0 (participare scăzută):
+Introducerea programelor educaționale care să promoveze beneficiile activităților fizice.
+Investiții în infrastructura sportivă și în facilități accesibile.
+Organizarea de campanii publice pentru promovarea sportului.
+
+	Pentru țările din Cluster 1 (participare moderată):
+Continuarea implementării programelor existente.
+Identificarea și eliminarea barierelor culturale sau economice care limitează participarea populației.
+
+	Pentru țările din Cluster 2 (participare ridicată):
+Utilizarea acestor țări ca modele pentru dezvoltarea politicilor de sănătate publică.
+Partajarea strategiilor de succes și implementarea acestora în alte regiuni.
